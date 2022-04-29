@@ -1,2 +1,9 @@
 # live_estatidados
-Repositório com os códigos usados na Live no canal estatidados
+Repositório com os códigos usados na Live no canal estatidados no youtube
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=KUzLBCZCHvs" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
